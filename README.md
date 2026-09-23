@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Halil Tezcan KARABULUT</h1>
-<h3 align="center">A software developer from Turkey.</h3>
-
-- 🔭 I’m currently working at [EaglesSoft](https://eaglessoft.com/).
+<h3 align="center">A software developer from Türkiye.</h3>
 
 - 🌱 I’m currently learning **about time management**
 
 - 💬 Ask me about **Cloud, DevOps, Back-End, JavaScript...**
-
-<!-- - 📄 Know about my experiences [https://unity.themaker.dev/resume.pdf](https://unity.themaker.dev/resume.pdf) -->
 
 - ⚡ Fun fact **I'm an organism that can turn pizza and cafeine into software.**
 
